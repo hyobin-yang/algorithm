@@ -4,7 +4,7 @@
 # 정점 수, 간선 수
 vertics, edge = map(int, input().split())
 
-# 시작 정점
+# 시작 정점u
 start = int(input())
 
 # 그래프 생성
